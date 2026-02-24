@@ -22,7 +22,7 @@ Raw data files are not included in this repository.
 ## Project Structure
 chicago-taxi-demand-analysis/  
 ├── notebooks/  
-│   └── proyecto_8.ipynb  
+│   └── chicago_project.ipynb  
 ├── data/   (local only, ignored by git)  
 ├── README.md  
 ├── requirements.txt  
