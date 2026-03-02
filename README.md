@@ -174,6 +174,5 @@ The Chicago taxi market during the analyzed period shows:
 - Clear geographic demand clustering
 - Statistically significant weather impact on trip duration
 
-The combination of SQL data extraction, Python analysis, and hypothesis testing demonstrates an end-to-end analytical workflow designed to support business decision-making.
 
 Author: Valeria — Junior Data Analyst
